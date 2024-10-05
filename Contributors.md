@@ -1,6 +1,7 @@
 # Contributors
 -Testing out CLI, aprv
 - **Brace yourselves!** Mohamed Nour is here to code, conquer, and contribute! 💻✨ [Check me out on GitHub](https://github.com/MohamedNourDerbeli) before I accidentally break the internet... again. 😅 First open-source PR, but definitely not the last!
+- Hello World I'm Neeraj Yadav ! This is my First Open Source contribution on 5th oct 2024.[[My github] : https://github.com/NeerajYadavGosu]
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
 -Hello World the **GREAT** Leo has arrived: [Github](https://github.com/Leorev01)
